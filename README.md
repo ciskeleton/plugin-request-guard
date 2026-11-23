@@ -3,6 +3,11 @@
 Lightweight per-request limiter that prevents excessive bootstrapping or malicious request flooding during the `pre_system` phase.
 
 <p align="center">
+  <a href="https://github.com/ciskeleton/plugin-request-guard/releases"><img src="https://img.shields.io/github/v/release/ciskeleton/plugin-request-guard?label=release" alt="Release"></a>
+  <a href="LICENSE.md"><img src="https://img.shields.io/github/license/ciskeleton/plugin-request-guard" alt="Licence: MIT"></a>
+</p>
+
+<p align="center">
   <img src="./main/preview.jpg" alt="Request Guard preview image" />
 </p>
 
